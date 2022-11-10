@@ -1,8 +1,7 @@
-# Vertical to horizontal (Series to DataFrame with multiple columns)
+# Creates a file (and folders if they don't exist) at the given path
 
 ```python
 $pip install touchtouch
-#creates a file (and folders if they don't exist) at the given path
 from touchtouch import touch
 touch('f:\\dada\\baba\\caca\\myfile.html')
 
